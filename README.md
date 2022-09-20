@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/p4RRfTY/python-2.gif">
+[![MasterHead](https://i.ibb.co/PCd6bvP/Abdul-Dulal-3.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abdul Dulal</h1>
 <h3 align="center">A passionate frontend developer</h3>
