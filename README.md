@@ -8,10 +8,12 @@
 </h3>
 
 ## Skills and Experience
-<p>Expertise: JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3 </p>
-<p> <span> Expertise </span> : JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3,  </p>
-<p>Familiar:  TypeScript </p>
-<p>Tools: VS Code, Git, NPM, Chrome Dev tool, Firebase, Netlify, Vercel, Render </p>
+**Expertise**: JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3 
+</br>
+ **Comfortable**  : JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3
+**Familiar**:  TypeScript 
+</br>
+**Tools**: VS Code, Git, NPM, Chrome Dev tool, Firebase, Netlify, Vercel, Render 
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=abdul-dulal&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-dulal" /> </p>
