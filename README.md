@@ -11,6 +11,7 @@
 **Expertise**: JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3 
 </br>
  **Comfortable**  : JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3
+ </br>
 **Familiar**:  TypeScript 
 </br>
 **Tools**: VS Code, Git, NPM, Chrome Dev tool, Firebase, Netlify, Vercel, Render 
