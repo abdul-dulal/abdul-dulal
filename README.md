@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/PCd6bvP/Abdul-Dulal-3.png)](https://rishavchanda.io)
 
-<h1> Hey there! I'm Abdul Dulal 👋 </h1>
+<h1>Hi 👋, I'm Abdul Dulal</h1>
 <h2> A Passionate MERN Stack Developer From BD </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
