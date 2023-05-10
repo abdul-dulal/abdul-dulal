@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Abdul Dulal</h1>
 <h2> A Passionate MERN Stack Developer From BD </h2>
-
+<p> <img src="https://komarev.com/ghpvc/?username=abdul-dulal&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-dulal" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Typescript Next Js and Graphql
