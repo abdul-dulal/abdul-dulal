@@ -1,33 +1,26 @@
 [![MasterHead](https://i.ibb.co/PCd6bvP/Abdul-Dulal-3.png)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Abdul Dulal</h1>
-<p > I am passionate about web development. I believe in hard work and efficiency. I always 
-       like to learn new things.
-       Seeking a role as a front-end developer so I can use my thorough knowledge of 
-       programming frameworks and development software.   
-</h3>
+<h1> Hey there! I'm Abdul Dulal 👋 </h1>
+<h2> A Passionate MERN Stack Developer From BD </h2>
 
-## Skills and Experience
-**Expertise**: JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3 
-</br>
- **Comfortable**  : JavaScript, ES6, React js, Redux, Tailwind, React Bootstrap, HTML5, CSS3
- </br>
-**Familiar**:  TypeScript 
-</br>
-**Tools**: VS Code, Git, NPM, Chrome Dev tool, Firebase, Netlify, Vercel, Render 
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I’m currently learning Typescript Next Js and Graphql
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming.
+- 🌱 &nbsp; Enthusiast in full-Stact Developer .
+- 👨‍ &nbsp; 💻 Want to know more about me ? [https://abdul-dulal-protfolio.vercel.app/](https://abdul-dulal-protfolio.vercel.app/)
+- 💬 &nbsp; Ask me about **MERN**
+- 📫 &nbsp; How to reach me **infodulal202@gmail.com**
+- ⚡ &nbsp; Fun fact **I love watching Charlie Chaplin cartoons**
 
-<p> <img src="https://komarev.com/ghpvc/?username=abdul-dulal&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-dulal" /> </p>
+<h3>🛠 Tech Stack</h3>
 
-- 🌱 I’m currently learning **Node Js , Express Js , MongoDB**
-
-- 👨‍💻 Want to know more about me ? [https://abdul-dulal2.netlify.app/](https://abdul-dulal2.netlify.app/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **dulal.dpi.387364@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 💻 &nbsp; JavaScript | React | Next  | Typescript | MERN  
+- 🌐 &nbsp; Full-Stack  | HTML | CSS | Tailwind  | React | Next js | Typescript | Redux | Node Js | Express Js | MongoDB 
+- 🛢 &nbsp;  Firebase | Postman | Vercel 
+- 🔧 &nbsp;  Visual Studio code  | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
