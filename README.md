@@ -18,9 +18,8 @@
 
 - 💻 &nbsp; JavaScript | React | Next  | Typescript | MERN  
 - 🌐 &nbsp; Full-Stack  | HTML | CSS | Tailwind  | React | Next js | Typescript | Redux | Node Js | Express Js | MongoDB 
-- 🛢 &nbsp;  Firebase | Postman | Vercel 
-- 🔧 &nbsp;  Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+- 🛢 &nbsp;  Swagger | Postman | Vercel 
+- 🔧 &nbsp;  Visual Studio code  | Github | Figma
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
