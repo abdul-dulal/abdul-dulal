@@ -10,14 +10,13 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming.
 - 🌱 &nbsp; Enthusiast in full-Stact Developer .
 - 👨‍ &nbsp; 💻 Want to know more about me ? [https://dulal-me-1wsy.vercel.app/](https://dulal-me-1wsy.vercel.app/)
-- 💬 &nbsp; Ask me about **MERN**
+- 💬 &nbsp; Ask me about **Front-End**
 - 📫 &nbsp; How to reach me **infodulal202@gmail.com**
 - ⚡ &nbsp; Fun fact **I love watching Charlie Chaplin cartoons**
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | React | Next  | Typescript | MERN  
-- 🌐 &nbsp; Full-Stack  | HTML | CSS | Tailwind  | React | Next js | Typescript | Redux | Node Js | Express Js | MongoDB 
+- 🌐 &nbsp;  HTML | CSS | Tailwind | Shadecn | Javascript  | React | Next js | Typescript | Redux | Socketio 
 - 🛢 &nbsp;  Swagger | Postman | Vercel 
 - 🔧 &nbsp;  Visual Studio code  | Github | Figma
 
