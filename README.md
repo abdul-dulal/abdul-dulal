@@ -1,14 +1,14 @@
 [![MasterHead](https://i.ibb.co/PCd6bvP/Abdul-Dulal-3.png)](https://rishavchanda.io)
 
 <h1>Hi 👋, I'm Abdul Dulal</h1>
-<h2> A Passionate Front-end Developer  </h2>
+<h2> A Passionate Front-End Developer  </h2>
 <p> <img src="https://komarev.com/ghpvc/?username=abdul-dulal&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-dulal" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Node.js  and Graphql
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming.
-- 🌱 &nbsp; Enthusiast in full-Stact Developer .
+- 🌱 &nbsp; Enthusiast in Front-end Developer .
 - 👨‍ &nbsp; 💻 Want to know more about me ? [https://dulal-me-1wsy.vercel.app/](https://dulal-me-1wsy.vercel.app/)
 - 💬 &nbsp; Ask me about **Front-End**
 - 📫 &nbsp; How to reach me **infodulal202@gmail.com**
