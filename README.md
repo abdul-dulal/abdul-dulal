@@ -5,7 +5,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=abdul-dulal&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-dulal" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Node.js  and Graphql
+- 🔭 &nbsp; I’m currently learning Node.js
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming.
 - 🌱 &nbsp; Enthusiast in Front-end Developer .
@@ -16,9 +16,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp;  HTML | CSS | Tailwind | Shadecn | Javascript  | React | Next js | Typescript | Redux | Socketio 
+- 🌐 &nbsp;  HTML | CSS | Tailwind | Shadecn | Javascript  | React | Next js | Vue js | Typescript | Redux | Socketio 
 - 🛢 &nbsp;  Swagger | Postman | Vercel 
-- 🔧 &nbsp;  Visual Studio code  | Github | Figma
+- 🔧 &nbsp;  Visual Studio code  | Github | Claude | Codex
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
